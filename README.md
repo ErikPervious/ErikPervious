@@ -19,3 +19,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erikpervious&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikpervious&layout=compact&langs_count=16&theme=tokyonight&hide_border=true"/><br>
 </div>
+
+
+![Snake animation](https://github.com/erikpervious/erikpervious/blob/output/github-contribution-grid-snake.svg)
