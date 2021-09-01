@@ -28,5 +28,7 @@
 [![Repo iClimate](https://github-readme-stats.vercel.app/api/pin/?username=erikpervious&repo=Password-Generator&show_owner=false&theme=react&border_color=61d9fa)](https://github.com/erikpervious/Password-Generator)
 [![Repo Letmeask-NLW-Together](https://github-readme-stats.vercel.app/api/pin/?username=erikpervious&repo=Letmeask-NLW-Together&show_owner=false&theme=react&border_color=61d9fa)](https://github.com/erikpervious/Letmeask-NLW-Together)
 
-
+<div align="center">
+  <img alt="snake" height="200" src="./dist/snake.svg">
+</div>
 
