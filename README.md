@@ -5,15 +5,14 @@
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/ErikPervious)
 
 <h1 align="center">Hi guys, I'm Erik Matheus 👋 </h1>
-<p align="center">I am passionate about programming and technology, always learning new things and studying to be a front end programmer.</p>
-<p align="center">Languages I use in my daily life:</p>
+<p align="center">Fascinated by new technologies I study more and more to become a successful developer.</p>
+<p align="center">My hard skills:</p>
 <div align="center">
-  <img align="center" alt="Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Node.js" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="React" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="React/React Native" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML5" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TypeScript" height="30" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
 </div>
 <br>
 
