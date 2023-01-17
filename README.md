@@ -25,6 +25,5 @@
 
 <div align="center">
   <img alt="snake" height="200" src="./dist/snake.svg">
-  <img alt="snake" height="200" src="./dist/snk.svg">
 </div>
 
