@@ -28,5 +28,5 @@
 <div align="center">
  <img height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=erikpervious&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&card_width=280"/>
  <img height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=erikpervious&layout=compact&langs_count=16&theme=tokyonight&hide_border=true&card_width=280"/><br>
- <img alt="snake" height="200" src="./dist/snake.svg">
+ <img alt="snake" height="200" src="./dist/github-user-contribution.svg">
 </div>
