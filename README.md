@@ -7,24 +7,31 @@
 
 <br>
 
-<h1 align="center">Hi guys, I'm Erik Matheus 👋 </h1>
-<div style="display:flex;align-items:center;justify-content:center;gap:30px" markdown="1">
-  <div>
-    <p align="center">I'm a 19 years old developer from Brazil, i'm currently studying at <a href="https://portal.anhembi.br/">UAM</a>. I'm passionate about technology and I'm always looking for new challenges.</p>
-    <p align="center">I have experience in some languages like:</p>
-    <div align="center">
-      <img align="center" alt="React/React Native" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-      <img align="center" alt="HTML5" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <img align="center" alt="CSS3" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <img align="center" alt="JavaScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      <img align="center" alt="TypeScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-      <img align="center" alt="Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-      <img align="center" alt="NodeJS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-      <img align="center" alt="MySQL" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
-    </div>
-  </div>
-  <img align="center" alt="itachi-uchiha" height="130" style="border-radius:7px" src="https://media.tenor.com/xiDx7IfcZ1cAAAAC/itachi-uchiha.gif">
-</div>
+<table>
+  <h1 align="center">Hi guys, I'm Erik Matheus 👋 </h1>
+  <tr>
+    <td>
+      <div>
+        <p align="center">I'm a 19 years old developer from Brazil, i'm currently studying at <a href="https://portal.anhembi.br/">UAM</a>. I'm passionate about technology and I'm always looking for new challenges.</p>
+        <p align="center">I have experience in some languages like:</p>
+        <div align="center">
+          <img align="center" alt="React/React Native" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+          <img align="center" alt="HTML5" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+          <img align="center" alt="CSS3" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+          <img align="center" alt="JavaScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+          <img align="center" alt="TypeScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+          <img align="center" alt="Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+          <img align="center" alt="NodeJS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+          <img align="center" alt="MySQL" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+        </div>
+      </div>
+    </td>
+    <td>
+      <img align="center" alt="itachi-uchiha" height="130" src="https://media.tenor.com/xiDx7IfcZ1cAAAAC/itachi-uchiha.gif">
+    </td>
+  </tr>
+</table>
+
 <br>
 <h2 align="left">My profile statistics:</h2>
 <div align="center">
@@ -32,4 +39,3 @@
  <img height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=erikpervious&layout=compact&langs_count=16&theme=tokyonight&hide_border=true&card_width=280"/><br>
  <img alt="snake" height="200" src="./dist/snake.svg">
 </div>
-
