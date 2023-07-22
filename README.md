@@ -8,7 +8,7 @@
 <h1 align="center" >Hi guys, I'm Erik Matheus 👋</h1>
 <div>
   <img align="right" alt="itachi-uchiha" height="160" src="https://media.tenor.com/xiDx7IfcZ1cAAAAC/itachi-uchiha.gif">
-  <p align="center">I'm a 19 years old developer from Brazil, i'm currently studying at <a href="https://portal.anhembi.br/">UAM</a>.</p>
+  <p align="center">I'm a 20 years old developer from Brazil, i'm currently studying at <a href="https://portal.anhembi.br/">UAM</a>.</p>
   <p align="center">I'm passionate about technology and I'm always looking for new challenges.</p>
   <p align="center">I have experience in some languages like:</p>
   <div align="center">
