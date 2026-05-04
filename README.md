@@ -10,10 +10,10 @@
 [![Current focus](https://img.shields.io/badge/Focused%20on-AI%20Security-brightgreen?style=flat-square&logo=artificial-intelligence&logoColor=white)](https://linkedin.com/in/erikmatheus/)
 [![Learning](https://img.shields.io/badge/Studying-Solyd%20Pentest-blue?style=flat-square&logo=shield&logoColor=white)](https://solyd.com.br)
 [![CTF](https://img.shields.io/badge/CTF-Hack%20The%20Box-4CBB17?style=flat-square&logo=hackthebox&logoColor=white)](https://www.hackthebox.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=erikpervious&color=brightgreen)](https://github.com/erikpervious)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&width=700&height=60&lines=Desenvolvedor+de+sistemas;Seguran%C3%A7a+por+design;Automatiza%C3%A7%C3%A3o+com+IA;Pentest+e+CTF)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=erikpervious&color=brightgreen)](https://github.com/erikpervious)
 [![GitHub trophy](https://github-profile-trophy.vercel.app/?username=erikpervious&theme=darkhub&row=1&column=4)](https://github.com/erikpervious)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=erikpervious&theme=tokyonight)](https://github.com/erikpervious)
 
