@@ -61,7 +61,7 @@ A segurança não é silo: ela faz parte do ciclo de vida do software.
 ## O que eu faço hoje
 
 - desenvolvimento de sistemas internos com foco em manutenibilidade e segurança por design
-- atuação como DPO substituto, apoiando conformidade de privacidade e LGPD
+- atuação como DPO, apoiando conformidade de privacidade e LGPD
 - sponsor de tecnologia para estratégia de stack, risco de fornecedores e mapas de risco
 - automação de processos com Power Platform, Python, JavaScript e APIs de IA
 - construção de soluções de IA para negócios jurídicos e operacionais
