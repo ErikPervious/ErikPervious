@@ -4,27 +4,30 @@
   <img src="dark.svg" alt="Erik Matheus — Systems Developer · Security & LGPD · RPA + AI Automation" width="100%">
 </picture>
 
-[![Website](https://img.shields.io/badge/Website-emftech.com.br-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://emftech.com.br)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erikmatheus/)
-[![Instagram](https://img.shields.io/badge/Instagram-400090?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/erik_pervious)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/erikpervious)
+<p align="center">
+  <a href="https://emftech.com.br"><img alt="Website" src="https://img.shields.io/badge/Website-0F172A?style=for-the-badge&logo=googlechrome&logoColor=22D3EE"></a>&nbsp;
+  <a href="https://linkedin.com/in/erikmatheus/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=22D3EE"></a>&nbsp;
+  <a href="https://instagram.com/erik_pervious"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-0F172A?style=for-the-badge&logo=instagram&logoColor=22D3EE"></a>&nbsp;
+  <a href="https://youtube.com/erikpervious"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-0F172A?style=for-the-badge&logo=youtube&logoColor=22D3EE"></a>
+</p>
 
-[![Current focus](https://img.shields.io/badge/Focused%20on-AI%20Security-brightgreen?style=flat-square&logo=artificial-intelligence&logoColor=white)](https://linkedin.com/in/erikmatheus/)
-[![Learning](https://img.shields.io/badge/Studying-Solyd%20Pentest-blue?style=flat-square&logo=shield&logoColor=white)](https://solyd.com.br)
-[![CTF](https://img.shields.io/badge/CTF-Hack%20The%20Box-4CBB17?style=flat-square&logo=hackthebox&logoColor=white)](https://www.hackthebox.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=erikpervious&color=brightgreen)](https://github.com/erikpervious)
-
-[![GitHub trophy](https://github-profile-trophy.vercel.app/?username=erikpervious&theme=darkhub&row=1&column=4)](https://github.com/erikpervious)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=erikpervious&theme=tokyonight)](https://github.com/erikpervious)
+<p align="center">
+  <img alt="Foco: AI Security" src="https://img.shields.io/badge/focus-AI%20Security-10B981?style=flat-square&labelColor=0F172A">
+  <img alt="Estudando: Solyd Pentest" src="https://img.shields.io/badge/estudando-Solyd%20Pentest-7C3AED?style=flat-square&labelColor=0F172A">
+  <img alt="CTF: Hack The Box" src="https://img.shields.io/badge/ctf-Hack%20The%20Box-0E7490?style=flat-square&labelColor=0F172A">
+  <img alt="Visualizações do perfil" src="https://komarev.com/ghpvc/?username=erikpervious&style=flat-square&color=blueviolet">
+</p>
 
 - 22 anos, São Paulo, Brasil
 - Fundador da EMF Tech — soluções digitais sob medida em software, web, mobile, automação e segurança de dados
 - Produto próprio: Cash Mind — SaaS financeiro com agente de IA autônomo e integração com WhatsApp Business
 - Estudo pentest na Solyd (SYCP / SYWP / SYAP) e participo de CTFs no Hack The Box
 
----
-
-## Sobre
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/section-sobre-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/section-sobre-light.svg">
+  <img src="assets/section-sobre-dark.svg" alt="Sobre" width="100%">
+</picture>
 
 Desenvolvo sistemas internos e automações inteligentes com foco em código limpo, governança de dados e segurança desde o primeiro commit.
 
@@ -37,28 +40,60 @@ Atuo na interseção entre:
 
 A segurança não é silo: ela faz parte do ciclo de vida do software.
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/section-stack-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/section-stack-light.svg">
+  <img src="assets/section-stack-dark.svg" alt="Stack e competências" width="100%">
+</picture>
 
-## Estilo & Ferramentas
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-board-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/stack-board-light.svg">
+  <img src="assets/stack-board-dark.svg" alt="Linguagens: Python, JavaScript, TypeScript, Java, SQL/NoSQL, C, C++ · Segurança: OSINT, Port Scanning, Web App Recon, Pentest, LGPD, ISO 27001 (em estudo) · Automação e IA: Power Platform, RPA, Vertex AI, RAG, AI Agents · Plataformas: Microsoft 365, Google Cloud, Firebase" width="100%">
+</picture>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Power Platform](https://img.shields.io/badge/Power%20Platform-742774?style=for-the-badge&logo=microsoftpowerplatform&logoColor=white)
-![RPA](https://img.shields.io/badge/RPA-1F8ACB?style=for-the-badge&logo=robotframework&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![LGPD](https://img.shields.io/badge/LGPD-Compliant-2F855A?style=for-the-badge&logo=privacybadge&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/section-atividade-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/section-atividade-light.svg">
+  <img src="assets/section-atividade-dark.svg" alt="Atividade" width="100%">
+</picture>
 
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=erikpervious&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=erikpervious&show_icons=true&include_all_commits=true&count_private=true&bg_color=0F172A&title_color=22D3EE&icon_color=7C3AED&text_color=94A3B8&ring_color=7C3AED&border_color=253045&border_radius=16">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=erikpervious&show_icons=true&include_all_commits=true&count_private=true&bg_color=F8FAFC&title_color=1D4ED8&icon_color=0E7490&text_color=475569&ring_color=1D4ED8&border_color=E2E8F0&border_radius=16">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=erikpervious&show_icons=true&include_all_commits=true&count_private=true&bg_color=0F172A&title_color=22D3EE&icon_color=7C3AED&text_color=94A3B8&ring_color=7C3AED&border_color=253045&border_radius=16" alt="Estatísticas do GitHub" width="49%">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=erikpervious&layout=compact&langs_count=8&bg_color=0F172A&title_color=22D3EE&icon_color=7C3AED&text_color=94A3B8&border_color=253045&border_radius=16">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=erikpervious&layout=compact&langs_count=8&bg_color=F8FAFC&title_color=1D4ED8&icon_color=0E7490&text_color=475569&border_color=E2E8F0&border_radius=16">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=erikpervious&layout=compact&langs_count=8&bg_color=0F172A&title_color=22D3EE&icon_color=7C3AED&text_color=94A3B8&border_color=253045&border_radius=16" alt="Linguagens mais usadas" width="49%">
+  </picture>
+</p>
 
-![Top languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=erikpervious&layout=compact&langs_count=16&theme=tokyonight&hide_border=true)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=erikpervious&background=0F172A&border=253045&ring=7C3AED&fire=22D3EE&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B&stroke=253045&border_radius=16">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=erikpervious&background=F8FAFC&border=E2E8F0&ring=1D4ED8&fire=0E7490&currStreakNum=0F172A&sideNums=0F172A&currStreakLabel=1D4ED8&sideLabels=475569&dates=64748B&stroke=E2E8F0&border_radius=16">
+    <img src="https://streak-stats.demolab.com?user=erikpervious&background=0F172A&border=253045&ring=7C3AED&fire=22D3EE&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B&stroke=253045&border_radius=16" alt="Sequência de contribuições">
+  </picture>
+</p>
 
-![snake](./dist/snake.svg)
+<p align="center">
+  <a href="https://github.com/erikpervious"><img src="https://github-profile-trophy.vercel.app/?username=erikpervious&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4&margin-w=8" alt="Troféus do GitHub"></a>
+</p>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/snake-light.svg">
+  <img src="assets/snake-dark.svg" alt="Snake comendo o gráfico de contribuições" width="100%">
+</picture>
 
-## O que eu faço hoje
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/section-hoje-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/section-hoje-light.svg">
+  <img src="assets/section-hoje-dark.svg" alt="O que eu faço hoje" width="100%">
+</picture>
 
 - desenvolvimento de sistemas internos com foco em manutenibilidade e segurança por design
 - atuação como DPO, apoiando conformidade de privacidade e LGPD
@@ -66,18 +101,11 @@ A segurança não é silo: ela faz parte do ciclo de vida do software.
 - automação de processos com Power Platform, Python, JavaScript e APIs de IA
 - construção de soluções de IA para negócios jurídicos e operacionais
 
----
-
-## Principais competências
-
-- **Linguagens:** Python, JavaScript / TypeScript, Java, SQL / NoSQL, C, C++
-- **Segurança:** OSINT, Port Scanning, Web App Recon, Pentest, LGPD, ISO 27001 (em estudo)
-- **Automação & IA:** Power Platform, RPA, Vertex AI, RAG, AI Agents
-- **Plataformas:** Microsoft 365, Google Cloud, Firebase
-
----
-
-## Projetos em destaque
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/section-projetos-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/section-projetos-light.svg">
+  <img src="assets/section-projetos-dark.svg" alt="Projetos em destaque" width="100%">
+</picture>
 
 ### Cash Mind
 
@@ -104,14 +132,15 @@ Empresa brasileira de tecnologia com entrega sob medida para operações digitai
 - participação em CTFs no Hack The Box e na Solyd
 - uso de princípios de OSINT e enumeração em projetos reais
 
----
-
-## Contato
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/section-contato-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/section-contato-light.svg">
+  <img src="assets/section-contato-dark.svg" alt="Contato" width="100%">
+</picture>
 
 [Website](https://emftech.com.br) • [LinkedIn](https://linkedin.com/in/erikmatheus/) • [Instagram](https://instagram.com/erik_pervious)
 
 - e-mail: contato@emftech.com.br
 - YouTube: https://youtube.com/erikpervious
 
-
-
+<p align="center"><sub>© 2026 Erik Matheus · EMF Tech — banner, headers e stack board 100% SVG/SMIL, feitos à mão</sub></p>
