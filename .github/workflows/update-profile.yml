@@ -1,0 +1,43 @@
+name: update-profile
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Gerar snake nas paletas do perfil
+        uses: Platane/snk@v3
+        with:
+          github_user_name: erikpervious
+          outputs: |
+            dist/snake.svg
+            assets/snake-dark.svg?palette=github-dark&color_snake=#7C3AED&color_dots=#0F172A,#164E63,#0E7490,#06B6D4,#22D3EE
+            assets/snake-light.svg?palette=github-light&color_snake=#0E7490&color_dots=#EEF2F7,#DBEAFE,#93C5FD,#3B82F6,#1D4ED8
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Gerar cards de atividade
+        run: python3 scripts/gen_activity.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Commit e push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dist assets
+          if git diff --cached --quiet; then
+            echo "sem mudanças"
+          else
+            git commit -m "chore: atualiza snake e cards de atividade"
+            git push
+          fi

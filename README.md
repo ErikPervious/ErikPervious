@@ -60,28 +60,22 @@ A segurança não é silo: ela faz parte do ciclo de vida do software.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=erikpervious&show_icons=true&include_all_commits=true&count_private=true&bg_color=0F172A&title_color=22D3EE&icon_color=7C3AED&text_color=94A3B8&ring_color=7C3AED&border_color=253045&border_radius=16">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=erikpervious&show_icons=true&include_all_commits=true&count_private=true&bg_color=F8FAFC&title_color=1D4ED8&icon_color=0E7490&text_color=475569&ring_color=1D4ED8&border_color=E2E8F0&border_radius=16">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=erikpervious&show_icons=true&include_all_commits=true&count_private=true&bg_color=0F172A&title_color=22D3EE&icon_color=7C3AED&text_color=94A3B8&ring_color=7C3AED&border_color=253045&border_radius=16" alt="Estatísticas do GitHub" width="49%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg">
+    <img src="assets/stats-dark.svg" alt="Resumo de atividade: contribuições, dias ativos, melhor dia, stars, repositórios e seguidores" width="49%">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=erikpervious&layout=compact&langs_count=8&bg_color=0F172A&title_color=22D3EE&icon_color=7C3AED&text_color=94A3B8&border_color=253045&border_radius=16">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=erikpervious&layout=compact&langs_count=8&bg_color=F8FAFC&title_color=1D4ED8&icon_color=0E7490&text_color=475569&border_color=E2E8F0&border_radius=16">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=erikpervious&layout=compact&langs_count=8&bg_color=0F172A&title_color=22D3EE&icon_color=7C3AED&text_color=94A3B8&border_color=253045&border_radius=16" alt="Linguagens mais usadas" width="49%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/langs-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/langs-light.svg">
+    <img src="assets/langs-dark.svg" alt="Linguagens mais usadas nos repositórios públicos" width="49%">
   </picture>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=erikpervious&background=0F172A&border=253045&ring=7C3AED&fire=22D3EE&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B&stroke=253045&border_radius=16">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=erikpervious&background=F8FAFC&border=E2E8F0&ring=1D4ED8&fire=0E7490&currStreakNum=0F172A&sideNums=0F172A&currStreakLabel=1D4ED8&sideLabels=475569&dates=64748B&stroke=E2E8F0&border_radius=16">
-    <img src="https://streak-stats.demolab.com?user=erikpervious&background=0F172A&border=253045&ring=7C3AED&fire=22D3EE&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B&stroke=253045&border_radius=16" alt="Sequência de contribuições">
-  </picture>
-</p>
-
-<p align="center">
-  <a href="https://github.com/erikpervious"><img src="https://github-profile-trophy.vercel.app/?username=erikpervious&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4&margin-w=8" alt="Troféus do GitHub"></a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/streak-light.svg">
+  <img src="assets/streak-dark.svg" alt="Média diária, sequência atual e maior sequência de contribuições" width="100%">
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg">
@@ -142,5 +136,3 @@ Empresa brasileira de tecnologia com entrega sob medida para operações digitai
 
 - e-mail: contato@emftech.com.br
 - YouTube: https://youtube.com/erikpervious
-
-<p align="center"><sub>© 2026 Erik Matheus · EMF Tech — banner, headers e stack board 100% SVG/SMIL, feitos à mão</sub></p>
